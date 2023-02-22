@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/WorkLeetcode.iml" filepath="$PROJECT_DIR$/.idea/WorkLeetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer24/offer24.iml" filepath="$PROJECT_DIR$/offer24/offer24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer3/offer3.iml" filepath="$PROJECT_DIR$/offer3/offer3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer30/offer30.iml" filepath="$PROJECT_DIR$/offer30/offer30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer31/offer31.iml" filepath="$PROJECT_DIR$/offer31/offer31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer35/offer35.iml" filepath="$PROJECT_DIR$/offer35/offer35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer4/offer4.iml" filepath="$PROJECT_DIR$/offer4/offer4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer5/offer5.iml" filepath="$PROJECT_DIR$/offer5/offer5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer53/offer53.iml" filepath="$PROJECT_DIR$/offer53/offer53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer58/offer58.iml" filepath="$PROJECT_DIR$/offer58/offer58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/offer6/offer6.iml" filepath="$PROJECT_DIR$/offer6/offer6.iml" />
+    </modules>
+  </component>
+</project>
