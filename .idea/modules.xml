@@ -3,17 +3,19 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/WorkLeetcode.iml" filepath="$PROJECT_DIR$/.idea/WorkLeetcode.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer11/offer11.iml" filepath="$PROJECT_DIR$/offer11/offer11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer24/offer24.iml" filepath="$PROJECT_DIR$/offer24/offer24.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer3/offer3.iml" filepath="$PROJECT_DIR$/offer3/offer3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer30/offer30.iml" filepath="$PROJECT_DIR$/offer30/offer30.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer31/offer31.iml" filepath="$PROJECT_DIR$/offer31/offer31.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer35/offer35.iml" filepath="$PROJECT_DIR$/offer35/offer35.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer4/offer4.iml" filepath="$PROJECT_DIR$/offer4/offer4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer5/offer5.iml" filepath="$PROJECT_DIR$/offer5/offer5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer53/offer53.iml" filepath="$PROJECT_DIR$/offer53/offer53.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer58/offer58.iml" filepath="$PROJECT_DIR$/offer58/offer58.iml" />
-      <module fileurl="file://$PROJECT_DIR$/offer6/offer6.iml" filepath="$PROJECT_DIR$/offer6/offer6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer11/offer11.iml" filepath="$PROJECT_DIR$/OfferA/offer11/offer11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer24/offer24.iml" filepath="$PROJECT_DIR$/OfferA/offer24/offer24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer3/offer3.iml" filepath="$PROJECT_DIR$/OfferA/offer3/offer3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer30/offer30.iml" filepath="$PROJECT_DIR$/OfferA/offer30/offer30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer31/offer31.iml" filepath="$PROJECT_DIR$/OfferA/offer31/offer31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer32/offer32.iml" filepath="$PROJECT_DIR$/OfferA/offer32/offer32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer35/offer35.iml" filepath="$PROJECT_DIR$/OfferA/offer35/offer35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer4/offer4.iml" filepath="$PROJECT_DIR$/OfferA/offer4/offer4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer5/offer5.iml" filepath="$PROJECT_DIR$/OfferA/offer5/offer5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer50/offer50.iml" filepath="$PROJECT_DIR$/OfferA/offer50/offer50.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer53/offer53.iml" filepath="$PROJECT_DIR$/OfferA/offer53/offer53.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer58/offer58.iml" filepath="$PROJECT_DIR$/OfferA/offer58/offer58.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OfferA/offer6/offer6.iml" filepath="$PROJECT_DIR$/OfferA/offer6/offer6.iml" />
     </modules>
   </component>
 </project>
